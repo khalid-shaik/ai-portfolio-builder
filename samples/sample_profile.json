@@ -1,0 +1,24 @@
+{
+  "name": "Alex Sample",
+  "title": "Data Analyst",
+  "location": "Hyderabad, India",
+  "email": "alex.sample@example.com",
+  "tagline": "Turning raw data into clear, decision-ready dashboards.",
+  "about": "I am a fresher data analyst with a B.Tech in Computer Science (AI & ML). I enjoy cleaning messy datasets, writing SQL, and building dashboards that answer real business questions.\nI build side projects in Python to keep learning, from Streamlit apps to local AI tools.",
+  "github": "github.com/alex-sample",
+  "linkedin": "linkedin.com/in/alex-sample",
+  "website": "",
+  "skills": "Languages: Python, SQL\nAnalytics: Pandas, NumPy, Excel, Statistics\nVisualization: Power BI, Tableau, Matplotlib\nTools: Git, GitHub, VS Code, Streamlit",
+  "certifications": "Data Science Certification\nPython Certification",
+  "projects": [
+    {"title": "Sales Dashboard", "description": "Power BI dashboard for retail sales with KPI cards and region drill-downs.", "tech": "Power BI, DAX, SQL", "github": "github.com/alex-sample/sales-dashboard", "demo": ""},
+    {"title": "AI Resume Optimizer", "description": "Streamlit app that scores a resume against a job description using a local LLM.", "tech": "Python, Streamlit, Ollama", "github": "github.com/alex-sample/ai-resume-optimizer", "demo": ""},
+    {"title": "Customer Churn Analysis", "description": "Cleaned a 50,000 row dataset and explored churn drivers with Pandas.", "tech": "Python, Pandas, Matplotlib", "github": "", "demo": ""}
+  ],
+  "experience": [
+    {"role": "Data Analytics Intern", "company": "Example Corp", "period": "Jan 2025 - Jun 2025", "details": "Built weekly reports in Excel and Power BI; Wrote SQL queries for ad-hoc requests"}
+  ],
+  "education": [
+    {"degree": "B.Tech, Computer Science (AI & ML)", "institution": "Example Institute of Technology", "year": "2025", "details": ""}
+  ]
+}
